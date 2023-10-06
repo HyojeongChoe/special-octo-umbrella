@@ -29,3 +29,6 @@ git branch -m master main
 5. 브랜치 생성: git.branch [생성할 브랜치명]
 
 6. 작업할 브랜치 변경 : git.
+
+7. git remote add 변수명 [원격지주소] 
+-> 변수에 원격지주소 담아 저장 
