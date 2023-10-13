@@ -26,6 +26,12 @@ git
 (master) 뜨면 main으로 바꾸기
 git branch -m master main
 
+git branch test
+git checkout test
+(main)이 test로 바뀜
+
 5. 브랜치 생성: git.branch [생성할 브랜치명]
 
-6. 작업할 브랜치 변경 : git.
+
+7. git remote add 변수명 [원격지주소] 
+-> 변수에 원격지주소 담아 저장 
